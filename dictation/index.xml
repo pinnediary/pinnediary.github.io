@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dictations on 🎃 Pinned Diary 🎃</title>
+    <link>https://www.pinnediary.com/dictation/</link>
+    <description>Recent content in Dictations on 🎃 Pinned Diary 🎃</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022</copyright>
+    <lastBuildDate>Sat, 02 Jul 2022 00:38:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.pinnediary.com/dictation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bbc One Minute News Dictation 3</title>
+      <link>https://www.pinnediary.com/dictation/bbc-one-minute-news-dictation-3/</link>
+      <pubDate>Sat, 02 Jul 2022 00:38:55 +0000</pubDate>
+      
+      <guid>https://www.pinnediary.com/dictation/bbc-one-minute-news-dictation-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BBC One Minute News Dictation 2</title>
+      <link>https://www.pinnediary.com/dictation/bbc-one-minute-news-2/</link>
+      <pubDate>Fri, 01 Jul 2022 07:37:16 +0800</pubDate>
+      
+      <guid>https://www.pinnediary.com/dictation/bbc-one-minute-news-2/</guid>
+      <description>Origin URL: Click Here
+ The BBC investigations found evidence of occupying(1) Russia forces stealing thousands of tons of ukrainian grain.</description>
+    </item>
+    
+    <item>
+      <title>BBC One Minute News Dictation #1</title>
+      <link>https://www.pinnediary.com/dictation/bbc-one-minute-news-1/</link>
+      <pubDate>Thu, 30 Jun 2022 15:16:17 +0800</pubDate>
+      
+      <guid>https://www.pinnediary.com/dictation/bbc-one-minute-news-1/</guid>
+      <description>The president of Ukraine says the war with Russia has entered an emotionally difficult stage | after the city of Severodonetsk fell to the Russian army.</description>
+    </item>
+    
+  </channel>
+</rss>

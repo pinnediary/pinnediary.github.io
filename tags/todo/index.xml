@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>todo on 🎃 Pinned Diary 🎃</title>
+    <link>https://www.pinnediary.com/tags/todo/</link>
+    <description>Recent content in todo on 🎃 Pinned Diary 🎃</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022</copyright>
+    <lastBuildDate>Fri, 01 Jul 2022 16:17:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.pinnediary.com/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>To-Do List</title>
+      <link>https://www.pinnediary.com/page/to-do/</link>
+      <pubDate>Fri, 01 Jul 2022 16:17:06 +0000</pubDate>
+      
+      <guid>https://www.pinnediary.com/page/to-do/</guid>
+      <description>I have a to-do list for the next half year:   🔳 IELTS 7.</description>
+    </item>
+    
+  </channel>
+</rss>
