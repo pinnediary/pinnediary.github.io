@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 🎃 Pinned Diary 🎃</title>
+    <link>https://www.pinnediary.com/posts/</link>
+    <description>Recent content in Posts on 🎃 Pinned Diary 🎃</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022</copyright>
+    <lastBuildDate>Fri, 16 Sep 2022 09:10:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.pinnediary.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ielts Speak Topics</title>
+      <link>https://www.pinnediary.com/posts/ielts-speak-topics/</link>
+      <pubDate>Fri, 16 Sep 2022 09:10:13 +0000</pubDate>
+      
+      <guid>https://www.pinnediary.com/posts/ielts-speak-topics/</guid>
+      <description>1. What do you do in your free time?  [Answer] Well, for the most part, in my leisure time, I&amp;rsquo;m really into playing my guitar.</description>
+    </item>
+    
+    <item>
+      <title>Some People Think Children Have the Freedom to Make Mistakes</title>
+      <link>https://www.pinnediary.com/posts/some-people-think-children-have-the-freedom-to-make-mistakes/</link>
+      <pubDate>Thu, 21 Jul 2022 14:58:51 +0000</pubDate>
+      
+      <guid>https://www.pinnediary.com/posts/some-people-think-children-have-the-freedom-to-make-mistakes/</guid>
+      <description>Some people think children have the freedom to make mistakes, while other people believe that adults should prevent children from making mistakes.</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://www.pinnediary.com/posts/hello-hugo/</link>
+      <pubDate>Wed, 22 Jun 2022 08:31:42 +0000</pubDate>
+      
+      <guid>https://www.pinnediary.com/posts/hello-hugo/</guid>
+      <description>Hi Hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
